@@ -1,0 +1,11 @@
+{
+  "name": "cdss-evolution3",
+  "version-string": "1.0.0",
+  "dependencies": [
+    {
+      "name": "drogon",
+      "features": ["sqlite3"]
+    },
+    "sqlite3"
+  ]
+}

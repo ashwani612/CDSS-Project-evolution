@@ -1,0 +1,8 @@
+build/
+.vs/
+.vscode/
+*.db
+*.sqlite
+*.sqlite3
+*.exe
+vcpkg/
